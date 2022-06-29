@@ -434,7 +434,7 @@ header{
     width: 35%;
     background: 
         linear-gradient(rgba(15,15,15,0.6),rgba(25,25,25,0.9)), 
-        url("contato.jpg");
+        url("../portifolio/contato.jpg");
     background-size: cover;
 }
 
