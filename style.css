@@ -515,6 +515,7 @@ header{
     box-shadow: 0 .1rem .8rem rgba(0, 0, 0, .4);
     border: none;
     margin-top: 1rem;
+    cursor: pointer;
 }
 
 footer{
@@ -563,4 +564,5 @@ footer{
     color: #fff;
     border-radius: .3rem;
     box-shadow: 0 0.1rem 0.6rem rgba(0, 0, 0, 0);
+    cursor: pointer;
 }
